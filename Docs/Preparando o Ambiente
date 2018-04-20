@@ -1,0 +1,11 @@
+Preparando o ambiente Cordova para aplicações APP
+
+1) instalação do cordova
+    npm install -g cordova
+
+2) criando um projeto
+    cordova create app-js-initial
+
+3) Adicionando plataforma
+    cordova platform add android --save 
+
