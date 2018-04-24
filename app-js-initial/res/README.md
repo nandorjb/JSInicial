@@ -27,3 +27,5 @@ icon and splashscreen support is added to the CLI, these image resources
 aren't used directly.
 
 See https://issues.apache.org/jira/browse/CB-5145
+
+teste
