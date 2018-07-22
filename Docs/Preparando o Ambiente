@@ -1,11 +1,11 @@
-Preparando o ambiente Cordova para aplicações APP
+# Executando o projeto
+    Após feito o clone do projeto com sucesso.
 
-1) instalação do cordova
-    npm install -g cordova
+Primeiro execução do Projeto
+1. Execute o comdando: `npm install`
+2. 
 
-2) criando um projeto
-    cordova create app-js-initial
 
-3) Adicionando plataforma
-    cordova platform add android --save 
-
+Próxima execução do Projeto
+1.
+2.
