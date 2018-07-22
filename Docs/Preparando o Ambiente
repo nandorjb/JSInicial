@@ -2,10 +2,12 @@
     Após feito o clone do projeto com sucesso.
 
 Primeiro execução do Projeto
-1. Execute o comdando: `npm install`
-2. 
+1. Instalar o nodeJS
+2. Faça o clone do projeto: `https://github.com/nandorjb/JSInicial.git`
+3. Dentro do diretório (../JSInicial), execute o comdando: `npm install`
+4. 
 
 
 Próxima execução do Projeto
-1.
+1. 
 2.
