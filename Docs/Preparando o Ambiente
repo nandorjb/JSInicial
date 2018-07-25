@@ -13,3 +13,6 @@ Próxima execução do Projeto
 1. Dentro do diretório (../JSInicial), execute o comdando: `npm install`
 2. inicar o servidor com esse comando: `nodemon app.js`
 3. Abrir o Browser na URL: `http://localhost:3030/`
+
+
+//Não funcionou nodemon no meu computador
