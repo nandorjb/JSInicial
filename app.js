@@ -14,7 +14,10 @@ app.get('/Treinamento', function(req,res){
     //res.send("Ola Mundo");
     res.render("treinamento/estrutura_controle");
 });
-
+app.get('/Fer', function(req,res){
+    //res.send("Ola Mundo");
+    res.render("Fernando/Fernando");
+});
 //Servidor fica ouvindo a porta 3000 para responder
 app.listen(3030, function(){
     console.log("Servidor Ativo");

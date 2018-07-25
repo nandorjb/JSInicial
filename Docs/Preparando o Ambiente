@@ -16,3 +16,5 @@ Próxima execução do Projeto
 
 
 //Não funcionou nodemon no meu computador
+node app.js
+Execute o comando: node app.js
